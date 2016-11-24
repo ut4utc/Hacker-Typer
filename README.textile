@@ -1,4 +1,4 @@
-h2. License 
+h2. License CCL
 
 (c) Copyright 2011 Simone Masiero. Some Rights Reserved. 
 
